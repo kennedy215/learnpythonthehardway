@@ -1,7 +1,7 @@
 ## A Good First Program
 
 This project is from the book Learn Python the Hard Way. Going over all of the
-projects. This is a basic exercise exploring more printing.
+projects. This is a basic exercise exploring \n.
 
 ## How It Works
 
@@ -16,8 +16,8 @@ To start on this project, you'll need python.
 
 ### How to Run Application
 
-The file is called ex7.py. Open your terminal cd into the folder where ex7.py is in and then
-type in the terminal python ex7.py.
+The file is called ex9.py. Open your terminal cd into the folder where ex9.py is in and then
+type in the terminal python ex9.py.
 
 
 ## License
