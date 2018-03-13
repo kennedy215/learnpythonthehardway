@@ -24,3 +24,19 @@ print fat_cat
 
 chicken = "ก"
 print chicken
+
+delicious = "duck"
+nasty = 'goat'
+
+print " I eat %r and %r " % (delicious, nasty)
+print ' I eat %s and %r ' % (delicious, nasty)
+
+# 1. Memorize all the escape sequences by putting them on flash cards.
+# 2. Use ''' (triple-single-quote) instead. Can you see why you might
+# use that instead of """?
+# ''' are treated as regular strings that can span multiple lines.
+# Combine escape sequences and format strings to create a more complex format.
+# Remember the %r format? Combine %r with double-quote and single-quotes# escapes
+# and prints them out. Compare %r with %s. Notice how %r prints it in the
+# way you'd write it in your file, but %s prints it the way you'd like to
+# see it?
