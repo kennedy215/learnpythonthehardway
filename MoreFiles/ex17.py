@@ -25,8 +25,8 @@ in_file.close()
 
 # Study Drills
 
-# 1.Go read up on Python's import statmeent, and start python to try it out
-# 2. This scrit is really annoying. There's no need to ask you before
+# 1.Go read up on Python's import statement, and start python to try it out
+# 2. This script is really annoying. There's no need to ask you before
 # doing the copy, and it prints too much to the screen. Try to make it
 # More friendly to use by removing features.
 # 3. See how show you can make the script I could make this one line long

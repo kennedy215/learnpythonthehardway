@@ -47,7 +47,8 @@ You live in %r. Not sure where that is.
 And you have a %r computer and your only %r years old! Nice.
 """ % (likes, lives, computer, age)
 
-
+# 1. Find out what Zork and Adventures were. Try to find a copy and play it.
+# 2. Change the prompt variable to something else entirely 
 # 3. Add another argument use it in your script
 # 4. Make sure you understand how I combined a """ style multiline string with
 # the % format activator as the last print.

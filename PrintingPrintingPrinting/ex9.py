@@ -12,3 +12,7 @@ With the three double-quotes.
 We'll be able to type as much as we like.
 Even 4 lines if we want, or 5 or 6.
 """
+
+# Study Drills
+# 1. Do your checks of your work, write down your mistakes,
+# and try not to make them on the next excercise 
