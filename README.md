@@ -9,7 +9,7 @@ how everything function piece by piece.
 
 ## Requirements
 
-To start on this project, you'll need python. Then go inside each folder and type.
+To start on this project, you'll need python.
 
 
 ## Directions
