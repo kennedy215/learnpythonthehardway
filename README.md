@@ -1,15 +1,15 @@
 ## Lean Python the Hard Way Third Edition by Zed A. Shaw
 
-These projects helps bring the understanding of Basic approach to Python.
+These projects helps bring the understanding of Basic approach to programming with Python.
 
 ## How It Works
 
 Reading the code exactly how it's presented writing it and breaking it down to
-how everything function piece by piece.
+how all the code functions line by line.
 
 ## Requirements
 
-To start on this project, you'll need python.
+To start on this project, you'll need to use python.
 
 
 ## Directions
